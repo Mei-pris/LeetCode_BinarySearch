@@ -18,5 +18,8 @@
     <ClCompile Include="Search_RotationSortedArray.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Serch_firstAndlast_of_SortedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
